@@ -11,8 +11,8 @@ import requests
 import pandas as pd
 
 # Set up API keys
-openai.api_key = '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'
-metaphor = Metaphor('9520bf76-9c02-4019-9a49-bd804e1d9b32')
+openai.api_key = 'YOUR_OPEN_API_KEY'
+metaphor = Metaphor('YOUR_METAPHOR_KEY')
 
 def search_papers(topic):
     search_response = metaphor.search(
