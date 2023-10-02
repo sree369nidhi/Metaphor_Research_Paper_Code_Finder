@@ -1,0 +1,7 @@
+streamlit
+metaphor-python
+openai
+googlesearch-python
+paperswithcode-client
+requests
+pandas
